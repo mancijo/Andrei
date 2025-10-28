@@ -1,56 +1,98 @@
-# UpDesk
-
-## Equipe do Projeto
-- **PO**: [Jonatas Santos](https://github.com/JonatasSantos42)
-- **Scrum Master**: [Andrei Mancijo](https://github.com/mancijo)
-- **Dev Team**:
-  - [Mariozan Damasceno Lacerda Júnior](https://github.com/MariozanJr)
-  - [Mateus Teodoro](https://github.com/MateusTeod)
-  - [Kaique Batista da Silva](https://github.com/Kaiq-commits)
-  - [Filipe Vitor dos Santos](https://github.com/flp07)
-
-## Sobre o Projeto
-**UpDesk** é um projeto acadêmico focado no desenvolvimento de um sistema de abertura de chamados com suporte de **inteligência artificial**.
-
----
-
-## Planejamento
-- **Backlog do Produto**: [Backlog do UpDesk](https://github.com/mancijo/UpDesk/blob/main/planning/BacklogUpDesk.md)  
-- **Planejamento da Sprint**: [Sprint Planning](https://github.com/mancijo/UpDesk/blob/main/planning/sprintPlanning.md)
-- **Backlog de Sprints**: [Sprint Backlog](https://github.com/mancijo/UpDesk/blob/main/planning/sprintBacklog.md)
-<!-- - **Desenvolvimento do protótipo**: [Protótipo Figma](https://www.figma.com/proto/E1MoJEdet6K1CZIIEW0vfm/UpDesk?node-id=0-1&t=oEE2cMRVGQmr9kaA-1) -->
+<p align="center">
+  | <a href="#sobre-o-projeto">Sobre o Projeto</a> |
+  <a href="#backlog-do-produto">Backlog do Produto</a> |
+  <a href="#cronograma-de-desenvolvimento">Cronograma de desenvolvimento |
+  <a href="#cronograma-de-evolucao">Cronograma de Evolução</a> |
+  <a href="#sprints">Sprints</a> |
+  <a href="#tecnologias-utilizadas">Tecnologias</a> |
+  <a href="#estrutura-de-pastas">Estrutura de Pastas</a> |  
+  <br>  | <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
+  <a href="#documentacao">Documentação</a> |  
+  <a href="#equipe">Equipe</a> | <a href="#diagramas">Diagramas</a>
+</p>
 
 ---
 
-
-## Requisitos Funcionais
-- ✅ Protótipo de uma interface **WEB responsiva**  
-- ✅ Interface de gerenciamento de chamados  
-- ✅ Suporte com chat  
-- ✅ IA para **triagem e direcionamento** de chamados  
-
-## Requisitos Não Funcionais
-- 🛠 Estrutura de **banco de dados** com **MS SQL Server**  
-- 🛠 Classes estruturadas no **C#**  
-- 🛠 Projeto **Orientado a Objetos**
+# 🤖UpDesk-Mateus
+## 📜Sobre o Projeto <a id="sobre-o-projeto"></a>
+O **UpDesk** tem como objetivo resolver uma dor comum de empresas e setores de TI: a dificuldade na triagem, priorização e acompanhamento de chamados de suporte.
+Muitas vezes, usuários enfrentam demora no atendimento devido à falta de organização, categorização incorreta ou sobrecarga de analistas.
+O UpDesk propõe uma solução inovadora com inteligência artificial integrada, permitindo a sugestão automática de soluções, categorização de chamados e direcionamento para o nível adequado de suporte.
 
 ---
 
-## Solução Proposta
-- 🤖 Chat com IA integrada  
-- 📊 Sistema de triagem para monitoramento das ações da IA  
-- 📝 Sistema de abertura e acompanhamento de chamados  
-- ⚡ Priorização de chamados  
-- 👥 Usuários com **diferentes permissões**  
-- 🎯 Direcionamento automatizado de chamados
+## BACKLOG DE PRODUTO <a id="backlog-do-produto"></a>
+- [Backlog do UpDesk](https://github.com/mancijo/Andrei/blob/main/Dev%20planning/sprintBacklog.md)
 
 ---
-  
-## Prototipagem - [Figma](https://github.com/mancijo/UpDesk/blob/main/Figma/README.md)
- 
-Este diretório contém os protótipos do projeto UpDesk, desenvolvidos no Figma. Aqui estão organizadas as telas do sistema, representando o fluxo de navegação e a interface visual.
 
-📂 Estrutura de Arquivos  
-- 👤 Perfil Usuário  
-- 🛡 Perfil Admin
+## CRONOGRAMA DE EVOLUÇÃO <a id="cronograma-de-evolucao"></a>
+- [Cronograma de evolução UpDesk](https://github.com/mancijo/Andrei/blob/main/Dev%20planning/Cronograma%20de%20evolu%C3%A7%C3%A3o.md)
+
+---
+
+## 📊 Tabela de Sprints <a id="sprints"></a>
+
+- [Tabela de sprint descritiva](https://github.com/mancijo/Andrei/blob/main/Dev%20planning/Tabela%20de%20sprint%20descritiva.md)
+
+---
+
+## Tecnologias Utilizadas <a id="tecnologias-utlizadas"></a>
+
+- [Tecnologias Utilizadas](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Tecnologias-utilizadas.md)
+
+---
+
+## 📂 Estrutura do Projeto <a id="estrutura-de-pastas"></a>
+   
+- [Estrutura das pastas](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Estrutura%20das%20pastas.md)
+
+---
+
+## ▶️ Como Executar, Usar e Testar o Projeto <a id="como-rodar-o-projeto"></a>
+
+- [Como executar o projeto](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Executar%20projeto.md)
+
+---
+
+## Pasta de documentação
+
+- [Pasta da documentacao](https://github.com/mancijo/Andrei/tree/main/Documentacao/PIM%20IV/Documenta%C3%A7%C3%A3o%20separada)
+
+---
+
+## ✅ DoR (Definition of Ready)
+
+- [DoR (Definition of Ready)](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/DoR%20(Definition%20of%20Ready).md)
+
+---
+
+## ✅ DoD (Definition of Done)
+
+- [DoD (Definition of Done)](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/DOD.md)
+
+---
+
+## 📘 Manual do Usuário
+
+- [Manual de Usuário](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Manual%20de%20usuario.md)
+
+
+---
+
+## 📂Diagramas
+
+- [Diagramas](https://github.com/mancijo/Andrei/blob/main/diagrams/UML_upDesk.asta)
+
+---
+
+# 👨🏾‍💻 Equipe 
+| Nome                    | Papel                  | GitHub                                  | LinkedIn                                             |
+| ----------------------- | ---------------------- | --------------------------------------- | ---------------------------------------------------- |
+| Mateus Teodoro da Silva | Desenvolvedor Back-end | [GitHub](https://github.com/MateusTeod/)| [LinkedIn](https://www.linkedin.com/in/mateus-teod/) |
+
+
+---
+
+
 
