@@ -13,11 +13,11 @@
 
 ---
 
-# 🤖UpDesk-Mateus
+# 🤖UpDesk-Andrei
 ## 📜Sobre o Projeto <a id="sobre-o-projeto"></a>
-O **UpDesk** tem como objetivo resolver uma dor comum de empresas e setores de TI: a dificuldade na triagem, priorização e acompanhamento de chamados de suporte.
-Muitas vezes, usuários enfrentam demora no atendimento devido à falta de organização, categorização incorreta ou sobrecarga de analistas.
-O UpDesk propõe uma solução inovadora com inteligência artificial integrada, permitindo a sugestão automática de soluções, categorização de chamados e direcionamento para o nível adequado de suporte.
+O **UpDesk** é uma plataforma desenvolvida para enfrentar um desafio crítico no setor de TI: o gerenciamento eficiente de tickets de suporte técnico.
+Em diversos ambientes corporativos, a ineficiência no processamento de chamados técnicos resulta em atrasos significativos, frequentemente causados por classificações imprecisas e distribuição desbalanceada de demandas.
+Para solucionar esse cenário, o UpDesk implementa recursos avançados de IA que automatizam a análise de chamados, oferecendo recomendações inteligentes de resolução e otimizando o encaminhamento para as equipes apropriadas.
 
 ---
 
