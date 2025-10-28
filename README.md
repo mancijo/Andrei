@@ -13,7 +13,7 @@
 
 ---
 
-# 🤖UpDesk-Andrei
+# UpDesk-Andrei
 ## 📜Sobre o Projeto <a id="sobre-o-projeto"></a>
 O **UpDesk** é uma plataforma desenvolvida para enfrentar um desafio crítico no setor de TI: o gerenciamento eficiente de tickets de suporte técnico.
 Em diversos ambientes corporativos, a ineficiência no processamento de chamados técnicos resulta em atrasos significativos, frequentemente causados por classificações imprecisas e distribuição desbalanceada de demandas.
